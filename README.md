@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levy-y" alt="levy-y" /></a> </p>
 
+- 🌱 I’m currently learning **python, networking, databases**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Levy-Y](https://github.com/Levy-Y)
+
+- 💬 Ask me about **python, networking**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
