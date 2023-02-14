@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Levy-Y/levy-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Levi</h1>
 <h3 align="center">High school student mastering Python, building C++ foundations, and advancing in SQL. Passionate about tech innovation and problem-solving.</h3>
 
