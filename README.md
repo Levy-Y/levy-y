@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on OpenDeliveryBot<br><br>🌱 I’m currently learning python, networking, databases<br><br>👨‍💻 All of my projects are available at https://github.com/Levy-Y<br><br>💬 Ask me about python, networking
+<br>🌱 I’m currently learning python, networking, databases<br><br>👨‍💻 All of my projects are available at https://github.com/Levy-Y<br><br>💬 Ask me about python, networking
 
 
 # 💻 Tech Stack:
