@@ -18,6 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=levy-y&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/Levy-Y/Levy-Y/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
