@@ -6,9 +6,12 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=levy-y&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=levy-y&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=levy-y&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    <a href="https://github.com/Levy-Y">
+      <img src="https://github-readme-stats.vercel.app/api?username=levy-y&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /></a><br>
+    <a href="https://github.com/Levy-Y">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=levy-y&theme=tokyonight&hide_border=false" /></a><br>
+    <a href="https://github.com/Levy-Y">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levy-y&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a><br>
 </p>
 
 ## 🏆 GitHub Trophies
