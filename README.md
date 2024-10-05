@@ -14,7 +14,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levy-y&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a><br>
 </p>
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 
 <p align="center">
     <a href="https://github.com/Levy-Y">
