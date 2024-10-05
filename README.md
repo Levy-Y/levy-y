@@ -14,11 +14,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levy-y&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a><br>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=levy-y&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=levy-y&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+    <a href="https://github.com/Levy-Y">
+      <img src="https://github-contributor-stats.vercel.app/api?username=levy-y&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" /></a><br>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=levy-y&icon=5&color=0)](https://visitcount.itsvg.in)
