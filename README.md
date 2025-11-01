@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-	Hi, I'm Levy! I am currently in high school, and I am a networking apprentice at BMW Group Debrecen. In 	my free time, I love creating new things using Python, JavaScript, Java, or C# that may help other people!
+	Hi, I'm Levy! I am currently in high school. In my free time, I love creating new things using Java, or C#, Python that may help other people!
 </p>
 
 # 💻 Tech Stack:
